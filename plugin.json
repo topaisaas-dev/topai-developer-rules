@@ -1,0 +1,10 @@
+{
+    "repository":  "https://github.com/topaisaas-dev/topai-developer-rules",
+    "license":  "MIT",
+    "name":  "topai-developer-rules",
+    "description":  "Deterministic engineering guidelines, defensive architecture invariants, and clean code heuristics for Cursor IDE",
+    "version":  "1.0.0",
+    "author":  "TopAI Sovereign Studio",
+    "rules":  "./rules/",
+    "homepage":  "https://topaigateway.com"
+}
